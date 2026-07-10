@@ -1,0 +1,121 @@
+ID,Type,Category,Location,Price,Area,Bedrooms,Status
+1,Studio Apartment,Flat,Gurgaon,5403835,1821,4,Unfurnished
+2,PG Double Sharing,PG,Bangalore,13344,139,1,Semi-Furnished
+3,PG Double Sharing,PG,Mumbai,16231,164,1,Unfurnished
+4,PG Double Sharing,PG,Gurgaon,13452,178,1,Unfurnished
+5,1RK Room,Rent Room,Hyderabad,6924,196,1,Furnished
+6,1BHK Flat,Flat,Delhi,6013251,841,2,Unfurnished
+7,Rent Room,Rent Room,Pune,9533,212,1,Semi-Furnished
+8,PG Double Sharing,PG,Noida,8780,182,1,Semi-Furnished
+9,Studio Apartment,Flat,Ahmedabad,4684237,740,3,Semi-Furnished
+10,PG Triple Sharing,PG,Delhi,7713,152,1,Unfurnished
+11,Rent Room,Rent Room,Gurgaon,6063,396,1,Unfurnished
+12,Shared Room,Rent Room,Hyderabad,5883,352,1,Semi-Furnished
+13,2BHK Flat,Flat,Mumbai,15841117,2016,1,Semi-Furnished
+14,2BHK Flat,Flat,Hyderabad,10292749,2339,2,Furnished
+15,Rent Room,Rent Room,Mumbai,13016,286,1,Furnished
+16,4BHK Villa,Flat,Ahmedabad,4133772,1990,4,Furnished
+17,1RK Room,Rent Room,Delhi,6686,208,1,Unfurnished
+18,4BHK Villa,Flat,Noida,6506429,793,2,Semi-Furnished
+19,Shared Room,Rent Room,Noida,5884,362,1,Semi-Furnished
+20,PG Triple Sharing,PG,Ahmedabad,13055,264,1,Unfurnished
+21,PG Double Sharing,PG,Gurgaon,6888,125,1,Furnished
+22,4BHK Villa,Flat,Hyderabad,8938481,2069,2,Furnished
+23,PG Double Sharing,PG,Ahmedabad,12379,233,1,Furnished
+24,1RK Room,Rent Room,Noida,8312,361,1,Unfurnished
+25,1RK Room,Rent Room,Pune,6825,371,1,Furnished
+26,Studio Apartment,Flat,Bangalore,6258306,2219,4,Unfurnished
+27,PG Single Sharing,PG,Hyderabad,16189,160,1,Semi-Furnished
+28,Shared Room,Rent Room,Delhi,9488,395,1,Unfurnished
+29,PG Double Sharing,PG,Hyderabad,12528,157,1,Semi-Furnished
+30,PG Single Sharing,PG,Kolkata,12205,288,1,Semi-Furnished
+31,4BHK Villa,Flat,Gurgaon,11016462,1092,4,Furnished
+32,1RK Room,Rent Room,Pune,7869,338,1,Furnished
+33,3BHK Flat,Flat,Ahmedabad,5633757,1947,1,Furnished
+34,PG Triple Sharing,PG,Mumbai,12627,139,1,Semi-Furnished
+35,PG Triple Sharing,PG,Chennai,9650,251,1,Furnished
+36,2BHK Flat,Flat,Ahmedabad,6204161,2306,1,Unfurnished
+37,PG Triple Sharing,PG,Noida,17749,213,1,Semi-Furnished
+38,Rent Room,Rent Room,Noida,7101,353,1,Furnished
+39,4BHK Villa,Flat,Noida,10210226,1725,3,Unfurnished
+40,1RK Room,Rent Room,Hyderabad,8854,347,1,Furnished
+41,PG Single Sharing,PG,Mumbai,14328,224,1,Furnished
+42,Shared Room,Rent Room,Chennai,4675,191,1,Semi-Furnished
+43,PG Double Sharing,PG,Delhi,10698,126,1,Unfurnished
+44,PG Triple Sharing,PG,Hyderabad,11894,222,1,Unfurnished
+45,2BHK Flat,Flat,Delhi,12628757,1526,3,Semi-Furnished
+46,Shared Room,Rent Room,Bangalore,11357,318,1,Unfurnished
+47,Shared Room,Rent Room,Bangalore,10692,335,1,Semi-Furnished
+48,1BHK Flat,Flat,Ahmedabad,4009050,2447,4,Unfurnished
+49,PG Single Sharing,PG,Ahmedabad,10717,277,1,Furnished
+50,1BHK Flat,Flat,Bangalore,13458720,791,4,Unfurnished
+51,PG Single Sharing,PG,Kolkata,7056,263,1,Unfurnished
+52,2BHK Flat,Flat,Gurgaon,4549262,801,4,Semi-Furnished
+53,1RK Room,Rent Room,Chennai,5488,365,1,Furnished
+54,Shared Room,Rent Room,Kolkata,7434,287,1,Furnished
+55,3BHK Flat,Flat,Bangalore,13799167,1172,2,Unfurnished
+56,2BHK Flat,Flat,Noida,7279234,1799,3,Unfurnished
+57,Shared Room,Rent Room,Kolkata,6651,394,1,Semi-Furnished
+58,1BHK Flat,Flat,Hyderabad,3727118,1429,3,Furnished
+59,PG Triple Sharing,PG,Noida,7748,133,1,Unfurnished
+60,PG Triple Sharing,PG,Pune,16565,160,1,Unfurnished
+61,Studio Apartment,Flat,Pune,4348047,1283,3,Furnished
+62,PG Single Sharing,PG,Pune,9100,174,1,Semi-Furnished
+63,Shared Room,Rent Room,Hyderabad,9175,265,1,Semi-Furnished
+64,1RK Room,Rent Room,Gurgaon,9335,295,1,Unfurnished
+65,1RK Room,Rent Room,Chennai,8952,242,1,Furnished
+66,Shared Room,Rent Room,Noida,10528,360,1,Furnished
+67,Shared Room,Rent Room,Mumbai,12841,239,1,Unfurnished
+68,Studio Apartment,Flat,Hyderabad,6366418,2304,2,Unfurnished
+69,PG Triple Sharing,PG,Ahmedabad,11752,165,1,Unfurnished
+70,4BHK Villa,Flat,Kolkata,7504016,1916,1,Semi-Furnished
+71,1RK Room,Rent Room,Noida,9379,183,1,Furnished
+72,Shared Room,Rent Room,Pune,8034,207,1,Furnished
+73,Studio Apartment,Flat,Chennai,6637553,764,4,Furnished
+74,Shared Room,Rent Room,Noida,5788,255,1,Semi-Furnished
+75,3BHK Flat,Flat,Hyderabad,7132877,907,3,Furnished
+76,PG Triple Sharing,PG,Noida,15957,127,1,Semi-Furnished
+77,2BHK Flat,Flat,Kolkata,5668302,784,4,Unfurnished
+78,4BHK Villa,Flat,Hyderabad,8171019,2167,3,Semi-Furnished
+79,PG Double Sharing,PG,Noida,8517,160,1,Furnished
+80,PG Double Sharing,PG,Gurgaon,9550,248,1,Furnished
+81,2BHK Flat,Flat,Hyderabad,7601542,2144,3,Furnished
+82,PG Single Sharing,PG,Noida,15740,218,1,Furnished
+83,4BHK Villa,Flat,Kolkata,6762987,1470,3,Furnished
+84,PG Double Sharing,PG,Mumbai,8462,220,1,Semi-Furnished
+85,3BHK Flat,Flat,Pune,6159735,1233,4,Unfurnished
+86,Shared Room,Rent Room,Ahmedabad,6796,322,1,Semi-Furnished
+87,1BHK Flat,Flat,Chennai,5037403,1091,3,Semi-Furnished
+88,Shared Room,Rent Room,Chennai,4583,355,1,Unfurnished
+89,3BHK Flat,Flat,Pune,6106759,1172,4,Furnished
+90,1BHK Flat,Flat,Gurgaon,6925935,2364,2,Unfurnished
+91,Rent Room,Rent Room,Ahmedabad,3712,190,1,Semi-Furnished
+92,1RK Room,Rent Room,Mumbai,10320,296,1,Semi-Furnished
+93,1BHK Flat,Flat,Hyderabad,5228915,1548,2,Unfurnished
+94,1RK Room,Rent Room,Pune,6678,234,1,Semi-Furnished
+95,Shared Room,Rent Room,Delhi,7277,243,1,Unfurnished
+96,Rent Room,Rent Room,Delhi,11534,209,1,Semi-Furnished
+97,1RK Room,Rent Room,Kolkata,8467,198,1,Semi-Furnished
+98,4BHK Villa,Flat,Noida,9693532,933,2,Semi-Furnished
+99,PG Double Sharing,PG,Pune,13872,143,1,Unfurnished
+100,Rent Room,Rent Room,Kolkata,6719,267,1,Furnished
+101,2BHK Flat,Flat,Pune,8551405,1773,1,Unfurnished
+102,Shared Room,Rent Room,Kolkata,8046,227,1,Unfurnished
+103,Shared Room,Rent Room,Delhi,11841,276,1,Unfurnished
+104,Shared Room,Rent Room,Noida,5864,195,1,Semi-Furnished
+105,2BHK Flat,Flat,Gurgaon,7894677,1644,3,Furnished
+106,PG Triple Sharing,PG,Kolkata,10772,258,1,Furnished
+107,PG Double Sharing,PG,Bangalore,6782,173,1,Furnished
+108,Studio Apartment,Flat,Chennai,5029643,2054,4,Unfurnished
+109,4BHK Villa,Flat,Bangalore,8604441,2417,3,Furnished
+110,3BHK Flat,Flat,Delhi,7714198,2380,2,Unfurnished
+111,3BHK Flat,Flat,Noida,7178362,1368,3,Unfurnished
+112,3BHK Flat,Flat,Bangalore,9666888,1018,4,Semi-Furnished
+113,1RK Room,Rent Room,Mumbai,16092,285,1,Semi-Furnished
+114,PG Triple Sharing,PG,Noida,17900,279,1,Unfurnished
+115,Studio Apartment,Flat,Hyderabad,7254586,1115,3,Furnished
+116,PG Triple Sharing,PG,Ahmedabad,7566,299,1,Semi-Furnished
+117,Shared Room,Rent Room,Pune,10165,203,1,Furnished
+118,PG Single Sharing,PG,Ahmedabad,10982,281,1,Unfurnished
+119,PG Double Sharing,PG,Bangalore,15834,239,1,Furnished
+120,Shared Room,Rent Room,Kolkata,7336,181,1,Unfurnished
